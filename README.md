@@ -1,4 +1,8 @@
-# BSc Thesis project: "Implementation of autoregressive language model for human-AI interaction using Alexa virtual assistant technology"
+# BSc Thesis project: Bloom Model on Alexa skill using AWS environment
+
+
+
+Title:  "Implementation of autoregressive language model for human-AI interaction using Alexa virtual assistant technology"
 
 
 

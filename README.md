@@ -1,5 +1,4 @@
-# BSc Thesis project: 
- "Implementation of autoregressive language model for human-AI interaction using Alexa virtual assistant technology"
+# BSc Thesis project: "Implementation of autoregressive language model for human-AI interaction using Alexa virtual assistant technology"
 
 
 

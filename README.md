@@ -1,7 +1,7 @@
-# alexa_skill_chatbot
+# BSc Thesis project: 
+ "Implementation of autoregressive language model for human-AI interaction using Alexa virtual assistant technology"
 
 
-"Implementation of autoregressive language model for human-AI interaction using Alexa virtual assistant technology"
 
 
 In light of the latest developments in new algorithms  State-Of-The-Art in the Natural Language Processing field as GPT-3, LaMDa, and BLOOM, the study aims to create a socialbot using a model of artificial intelligence type autoregressive language model and then implement it on Voice User Interface (VUI) Alexa platform.
